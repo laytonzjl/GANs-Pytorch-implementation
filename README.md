@@ -6,9 +6,15 @@
 
 真实图像  
 ![image](real.png)  
-step1生成图像  
+
+step1生成图像 
+
 ![image](step1.png)  
+
+  
 step8生成图像  
 ![image](step8.png)  
+
+  
 step20生成图像  
 ![image](step20.png)
