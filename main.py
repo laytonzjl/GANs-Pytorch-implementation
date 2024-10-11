@@ -9,7 +9,7 @@ from torch.utils.tensorboard import SummaryWriter
 
 
 class Discriminator(nn.Module):
-    def __init__(self, img_dim):  # 输入in_dim图片，分类结果
+    def __init__(self, img_dim):  # 输入in_dim
         super(Discriminator, self).__init__()
         self.network = nn.Sequential(
             nn.Linear(img_dim, 128),
