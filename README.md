@@ -8,7 +8,6 @@
 ![image](real.png)  
 
 step1生成图像 
-
 ![image](step1.png)  
 
   
