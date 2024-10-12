@@ -1,4 +1,4 @@
-# GANs-Pytorch-
+# GANs-Pytorch-implementation
 使用Pytorch实现简单的生成对抗网络
 
 选择main文件运行，数据集使用MINIST手写体数据集，运行数据保存在log文件夹。  
